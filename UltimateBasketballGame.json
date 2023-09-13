@@ -14,7 +14,12 @@
     {
       "name": "rating",
       "display": "Rating",
-      "type": "string"
+      "type": "integer"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
     }
   ],
   "enums": [
@@ -25,10 +30,31 @@
         "forward": "Forward",
         "center": "Center"
       }
+    },
+    {
+      "property": "type",
+      "values": {
+        "player": "Player",
+        "event": "Event",
+        "action": "Action"
+      }
     }
   ],
-  "gamePlayDeckName": "Deck",
   "gameStartHandCount": 5,
   "name": "Ultimate Basketball Game",
-  "rulesUrl": "https://docs.google.com/document/d/e/2PACX-1vRwrtOLCS-bGFFK5VsOOgaq-OX6TgBtxm4qCypR7PhKfq5b5nbHw19e6feSvnbHFxI1PsDmbp19hVV0/pub"
+  "rulesUrl": "https://docs.google.com/document/d/e/2PACX-1vRwrtOLCS-bGFFK5VsOOgaq-OX6TgBtxm4qCypR7PhKfq5b5nbHw19e6feSvnbHFxI1PsDmbp19hVV0/pub",
+  "deckUrls": [
+    {
+      "name": "Player",
+      "url": "https://kiwiyuen.github.io/decks/player.txt"
+    },
+    {
+      "name": "Event",
+      "url": "https://kiwiyuen.github.io/decks/event.txt"
+    },
+    {
+      "name": "Action",
+      "url": "https://kiwiyuen.github.io/decks/action.txt"
+    }
+  ]
 }
