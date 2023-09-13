@@ -1,10 +1,10 @@
 {
-  "allCardsUrl": "https://www.cardgamesimulator.com/games/Standard/AllCards.json",
-  "allSetsUrl": "https://www.cardgamesimulator.com/games/Standard/AllSets.json",
-  "autoUpdateUrl": "https://www.cardgamesimulator.com/games/Standard/Standard.json",
-  "bannerImageUrl": "https://www.cardgamesimulator.com/games/Standard/Banner.png",
-  "cardBackImageUrl": "https://www.cardgamesimulator.com/games/Standard/CardBack.png",
-  "cardImageUrl": "https://www.cardgamesimulator.com/games/Standard/sets/{cardSet}/{cardId}.{cardImageFileType}",
+  "allCardsUrl": "https://kiwiyuen.github.io/AllCards.json",
+  "allSetsUrl": "https://kiwiyuen.github.io/AllSets.json",
+  "autoUpdateUrl": "hhttps://kiwiyuen.github.io/AllCards.json",
+  "bannerImageUrl": "https://kiwiyuen.github.io/Banner.png",
+  "cardBackImageUrl": "https://kiwiyuen.github.io/CardBack.png",
+  "cardImageUrl": "https://kiwiyuen.github.io/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardProperties": [
     {
       "name": "position",
