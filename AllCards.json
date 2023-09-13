@@ -1,0 +1,23 @@
+[
+  {
+    "set": "STD_FR",
+    "name": "Stephen Curry",
+    "id": "steph_curry",
+    "postion": "guard",
+    "rating": "9"
+  },
+  {
+    "set": "STD_FR",
+    "name": "Klay Thompson",
+    "id": "klay_thompson",
+    "postion": "guard",
+    "rating": "4"
+  },
+  {
+    "set": "STD_FR",
+    "name": "Draymond Green",
+    "id": "draymond_green",
+    "postion": "foward",
+    "rating": "3"
+  }
+]

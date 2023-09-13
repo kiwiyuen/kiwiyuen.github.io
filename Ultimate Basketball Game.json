@@ -1,0 +1,34 @@
+{
+  "allCardsUrl": "https://www.cardgamesimulator.com/games/Standard/AllCards.json",
+  "allSetsUrl": "https://www.cardgamesimulator.com/games/Standard/AllSets.json",
+  "autoUpdateUrl": "https://www.cardgamesimulator.com/games/Standard/Standard.json",
+  "bannerImageUrl": "https://www.cardgamesimulator.com/games/Standard/Banner.png",
+  "cardBackImageUrl": "https://www.cardgamesimulator.com/games/Standard/CardBack.png",
+  "cardImageUrl": "https://www.cardgamesimulator.com/games/Standard/sets/{cardSet}/{cardId}.{cardImageFileType}",
+  "cardProperties": [
+    {
+      "name": "position",
+      "display": "Position",
+      "type": "stringEnum"
+    },
+    {
+      "name": "rating",
+      "display": "Rating",
+      "type": "string"
+    }
+  ],
+  "enums": [
+    {
+      "property": "position",
+      "values": {
+        "guard": "Guard",
+        "forward": "Forward",
+        "center": "Center"
+      }
+    }
+  ],
+  "gamePlayDeckName": "Deck",
+  "gameStartHandCount": 5,
+  "name": "Ultimate Basketball Game",
+  "rulesUrl": "https://docs.google.com/document/d/e/2PACX-1vRwrtOLCS-bGFFK5VsOOgaq-OX6TgBtxm4qCypR7PhKfq5b5nbHw19e6feSvnbHFxI1PsDmbp19hVV0/pub"
+}
