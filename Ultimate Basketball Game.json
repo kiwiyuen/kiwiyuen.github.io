@@ -1,7 +1,7 @@
 {
   "allCardsUrl": "https://kiwiyuen.github.io/AllCards.json",
   "allSetsUrl": "https://kiwiyuen.github.io/AllSets.json",
-  "autoUpdateUrl": "hhttps://kiwiyuen.github.io/AllCards.json",
+  "autoUpdateUrl": "https://kiwiyuen.github.io/AllCards.json",
   "bannerImageUrl": "https://kiwiyuen.github.io/Banner.png",
   "cardBackImageUrl": "https://kiwiyuen.github.io/CardBack.png",
   "cardImageUrl": "https://kiwiyuen.github.io/sets/{cardSet}/{cardId}.{cardImageFileType}",
