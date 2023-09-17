@@ -33,30 +33,6 @@
   },
   {
     "set": "STD_FR",
-    "name": "Andrew Wiggins",
-    "id": "andrew_wiggins",
-    "position": "forward",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Gary Payton II",
-    "id": "gary_payton_ii",
-    "position": "guard",
-    "type": "player",
-    "rating": "2"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Kevon Looney",
-    "id": "kevon_looney",
-    "position": "center",
-    "type": "player",
-    "rating": "1"
-  },
-  {
-    "set": "STD_FR",
     "name": "Nikola Jokic",
     "id": "nikola_jokic",
     "position": "center",
@@ -70,46 +46,6 @@
     "position": "guard",
     "type": "player",
     "rating": "6"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Aaron Gordon",
-    "id": "aaron_gordon",
-    "position": "forward",
-    "type": "player",
-    "rating": "4"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Michael Porter Jr",
-    "id": "michael_porter_jr",
-    "position": "forward",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Kentavious CaldwellPope",
-    "id": "kentavious_caldwellpope",
-    "position": "guard",
-    "type": "player",
-    "rating": "2"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Christian Braun",
-    "id": "christian_braun",
-    "position": "guard",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "DeAndre Jordan",
-    "id": "deandre_jordan",
-    "position": "center",
-    "type": "player",
-    "rating": "1"
   },
   {
     "set": "STD_FR",
@@ -137,38 +73,6 @@
   },
   {
     "set": "STD_FR",
-    "name": "Derrick White",
-    "id": "derrick_white",
-    "position": "guard",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Al Horford",
-    "id": "al_horford",
-    "position": "forward",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Robert Williams III",
-    "id": "robert_williams_iii",
-    "position": "center",
-    "type": "player",
-    "rating": "2"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Malcolm Brogdon",
-    "id": "malcolm_brogdon",
-    "position": "guard",
-    "type": "player",
-    "rating": "1"
-  },
-  {
-    "set": "STD_FR",
     "name": "Jimmy Butler",
     "id": "jimmy_butler",
     "position": "forward",
@@ -185,46 +89,6 @@
   },
   {
     "set": "STD_FR",
-    "name": "Kyle Lowry",
-    "id": "kyle_lowry",
-    "position": "guard",
-    "type": "player",
-    "rating": "4"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Tyler Herro",
-    "id": "tyler_herro",
-    "position": "guard",
-    "type": "player",
-    "rating": "4"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Duncan Robinson",
-    "id": "duncan_robinson",
-    "position": "forward",
-    "type": "player",
-    "rating": "2"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Caleb Martin",
-    "id": "caleb_martin",
-    "position": "forward",
-    "type": "player",
-    "rating": "2"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Kevin Love",
-    "id": "kevin_love",
-    "position": "forward",
-    "type": "player",
-    "rating": "2"
-  },
-  {
-    "set": "STD_FR",
     "name": "Lebron James",
     "id": "lebron_james",
     "position": "forward",
@@ -238,46 +102,6 @@
     "position": "forward",
     "type": "player",
     "rating": "8"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Austin Reaves",
-    "id": "austin_reaves",
-    "position": "forward",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "DAngelo Russell",
-    "id": "dangelo_russell",
-    "position": "guard",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Rui Hachimura",
-    "id": "rui_hachimura",
-    "position": "forward",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Gabe Vincent",
-    "id": "gabe_vincent",
-    "position": "guard",
-    "type": "player",
-    "rating": "2"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Jarred Vanderbilt",
-    "id": "jarred_vanderbilt",
-    "position": "center",
-    "type": "player",
-    "rating": "1"
   },
   {
     "set": "STD_FR",
@@ -305,35 +129,27 @@
   },
   {
     "set": "STD_FR",
-    "name": "Brook Lopez",
-    "id": "brook_lopez",
-    "position": "center",
-    "type": "player",
-    "rating": "3"
-  },
-  {
-    "set": "STD_FR",
-    "name": "Bobby Portis",
-    "id": "bobby_portis",
+    "name": "Kevin Durant",
+    "id": "kevin_durant",
     "position": "forward",
     "type": "player",
-    "rating": "2"
+    "rating": "10"
   },
   {
     "set": "STD_FR",
-    "name": "Grayson Allen",
-    "id": "grayson_allen",
+    "name": "Devin Booker",
+    "id": "devin_booker",
     "position": "guard",
     "type": "player",
-    "rating": "1"
+    "rating": "6"
   },
   {
     "set": "STD_FR",
-    "name": "Pat Connaughton",
-    "id": "pat_connaughton",
+    "name": "Bradley Beal",
+    "id": "bradley_beal",
     "position": "guard",
     "type": "player",
-    "rating": "2"
+    "rating": "5"
   },
   {
     "set": "STD_FR",
@@ -441,30 +257,6 @@
   },
   {
     "set": "STD_FR",
-    "name": "Score Point",
-    "id": "score point",
-    "position": "",
-    "type": "action",
-    "rating": ""
-  },
-  {
-    "set": "STD_FR",
-    "name": "Add Rating",
-    "id": "add rating",
-    "position": "",
-    "type": "action",
-    "rating": ""
-  },
-  {
-    "set": "STD_FR",
-    "name": "Subtract Rating",
-    "id": "subtract rating",
-    "position": "",
-    "type": "action",
-    "rating": ""
-  },
-  {
-    "set": "STD_FR",
     "name": "Shooting_Coach",
     "id": "shooting_coach",
     "position": "",
@@ -547,6 +339,46 @@
     "set": "STD_FR",
     "name": "Bootcamp",
     "id": "bootcamp",
+    "position": "",
+    "type": "event",
+    "rating": ""
+  },
+  {
+    "set": "STD_FR",
+    "name": "Coach's_Speech",
+    "id": "coach's_speech",
+    "position": "",
+    "type": "event",
+    "rating": ""
+  },
+  {
+    "set": "STD_FR",
+    "name": "Clutch _Gene",
+    "id": "clutch _gene",
+    "position": "",
+    "type": "event",
+    "rating": ""
+  },
+  {
+    "set": "STD_FR",
+    "name": "Fan_Support",
+    "id": "fan_support",
+    "position": "",
+    "type": "event",
+    "rating": ""
+  },
+  {
+    "set": "STD_FR",
+    "name": "Winning _Time",
+    "id": "winning _time",
+    "position": "",
+    "type": "event",
+    "rating": ""
+  },
+  {
+    "set": "STD_FR",
+    "name": "Fouled _Out",
+    "id": "fouled _out",
     "position": "",
     "type": "event",
     "rating": ""
