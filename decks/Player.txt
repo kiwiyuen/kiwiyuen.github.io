@@ -3,42 +3,18 @@
 1 Klay Thompson
 1 Draymond Green
 1 Chris Paul
-1 Andrew Wiggins
-1 Gary Payton II
-1 Kevon Looney
 1 Nikola Jokic
 1 Jamal Murray
-1 Aaron Gordon
-1 Michael Porter Jr
-1 Kentavious CaldwellPope
-1 Christian Braun
-1 DeAndre Jordan
 1 Jayson Tatum
 1 Jaylen Brown
 1 Kristaps Porzingis
-1 Derrick White
-1 Al Horford
-1 Robert Williams III
-1 Malcolm Brogdon
 1 Jimmy Butler
 1 Bam Adebayo
-1 Kyle Lowry
-1 Tyler Herro
-1 Duncan Robinson
-1 Caleb Martin
-1 Kevin Love
 1 Lebron James
 1 Anthony Davis
-1 Austin Reaves
-1 DAngelo Russell
-1 Rui Hachimura
-1 Gabe Vincent
-1 Jarred Vanderbilt
 1 Giannis Antetokounmpo
 1 Jrue Holiday
 1 Khris Middleton
-1 Brook Lopez
-1 Bobby Portis
-1 Grayson Allen
-1 Pat Connaughton
-
+1 Kevin Durant
+1 Devin Booker
+1 Bradley Beal
